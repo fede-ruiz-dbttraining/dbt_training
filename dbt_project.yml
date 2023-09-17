@@ -36,3 +36,4 @@ models:
       +materialized: table
       +tags:
         - p1
+        - p2
